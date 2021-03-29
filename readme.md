@@ -8,7 +8,7 @@ Photo by [NeONBRAND](https://unsplash.com/@neonbrand) on [Unsplash](https://unsp
 
 ## Introduction
 
-The main objective of this project is to visualize and gain some insights from the basketball player historical dataset. In addition, this project tries to predict a new potential basketball player/ team member for recruitment purpose, thus this machine learning project can be categorized as a classification-based project.
+The main objective of this project is to visualize and gain some insights from the basketball player historical dataset. In addition, this project predicts a new potential basketball player/ team member for recruitment purpose, thus this machine learning project can be categorized as a classification-based project.
 
 ## Github File Descriptions
 
