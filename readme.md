@@ -3,7 +3,7 @@
 <hr>
 ![markus](readme.assets/markus.jpg)
 
-Photo by [[Markus Spiske]](https://unsplash.com/@neonbrand) on [Unsplash](https://unsplash.com/photos/BfphcCvhl6E)
+Photo by [Markus Spiske](https://unsplash.com/@neonbrand) on [Unsplash](https://unsplash.com/photos/BfphcCvhl6E)
 
 ## Introduction
 
