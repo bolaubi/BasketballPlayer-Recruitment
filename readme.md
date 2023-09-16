@@ -2,9 +2,9 @@
 
 <hr>
 
-![basketball court](https://images.unsplash.com/photo-1499754162586-08f451261482?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80)
+![markus-spiske-BfphcCvhl6E-unsplash](C:\Users\benedict\PycharmProjects\github_benedictlaiman\github_Basketball_Player_Classification\readme.assets\markus-spiske-BfphcCvhl6E-unsplash.jpg)
 
-Photo by [NeONBRAND](https://unsplash.com/@neonbrand) on [Unsplash](https://unsplash.com/photos/UegcSdRtmlg)
+Photo by [[Markus Spiske](https://unsplash.com/@markusspiske)](https://unsplash.com/@neonbrand) on [Unsplash](https://unsplash.com/photos/BfphcCvhl6E)
 
 ## Introduction
 
@@ -17,3 +17,10 @@ The main objective of this project is to visualize and gain some insights from t
 2. **nba_players.csv** --> csv file for visualization and model training purposes
 
 3. **new_players.csv**  --> csv file for model testing purpose
+
+## Profile
+
+Get in touch with me through:
+
+- [Linkedin](https://www.linkedin.com/in/benedict-laiman-60401319a/)
+- [Discord](https://discordapp.com/users/525654231940857867/)
