@@ -2,7 +2,7 @@
 
 <hr>
 
-![markus-spiske-BfphcCvhl6E-unsplash](C:\Users\benedict\PycharmProjects\github_benedictlaiman\github_Basketball_Player_Classification\readme.assets\markus-spiske-BfphcCvhl6E-unsplash.jpg)
+![markus-spiske-BfphcCvhl6E-unsplash](readme.assets\markus-spiske-BfphcCvhl6E-unsplash.jpg)
 
 Photo by [[Markus Spiske](https://unsplash.com/@markusspiske)](https://unsplash.com/@neonbrand) on [Unsplash](https://unsplash.com/photos/BfphcCvhl6E)
 
