@@ -1,10 +1,9 @@
 ## Basketball Player Recruitment
 
 <hr>
+![markus](readme.assets/markus.jpg)
 
-![markus-spiske-BfphcCvhl6E-unsplash](readme.assets\markus-spiske-BfphcCvhl6E-unsplash.jpg)
-
-Photo by [[Markus Spiske](https://unsplash.com/@markusspiske)](https://unsplash.com/@neonbrand) on [Unsplash](https://unsplash.com/photos/BfphcCvhl6E)
+Photo by [[Markus Spiske]](https://unsplash.com/@neonbrand) on [Unsplash](https://unsplash.com/photos/BfphcCvhl6E)
 
 ## Introduction
 
