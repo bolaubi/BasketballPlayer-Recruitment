@@ -20,6 +20,8 @@ The main objective of this project is to visualize and gain some insights from t
 
 ## Profile
 
+© Benedict Laiman 2021
+
 Get in touch with me through:
 
 - [Linkedin](https://www.linkedin.com/in/benedict-laiman-60401319a/)
