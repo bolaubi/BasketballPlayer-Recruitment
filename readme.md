@@ -1,8 +1,8 @@
 ## Basketball Player Recruitment
 
-<hr>
-![markus](readme-assets/markus.JPG)
-![img](https://images.unsplash.com/photo-1546519638-68e109498ffc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1780&q=80)
+
+![markus](pic/markus.JPG)
+
 
 Photo by [Markus Spiske](https://unsplash.com/@neonbrand) on [Unsplash](https://unsplash.com/photos/BfphcCvhl6E)
 
