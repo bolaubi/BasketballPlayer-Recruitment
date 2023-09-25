@@ -21,7 +21,7 @@ In this context, it is **acceptable to have a higher number of False Negatives (
 
 ![highlighted_df](pic/highlighted_df.png)
 
-The final model employed was a combination of models (green-highlighted) using a voting classifier, which performed well with only 13 misclassifications out of a total of 2229 players, all of which were classified as false negatives. As a result, the final model achieved a 0% False Positive Rate and a 0.143% False Negative Rate.
+The final model employed was a combination of models (green-highlighted) using a voting classifier, which performed well with only 13 misclassifications out of a total of 2229 players, all of which were classified as false negatives. As a result, the final model achieved a 0% False Positive Rate and a 14.29% False Negative Rate.
 
 ## The Dataset Description
 

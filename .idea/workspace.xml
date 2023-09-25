@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="853f2666-c962-4e27-8e3d-57868fe9a256" name="Default Changelist" comment="C2.0.1 - Adding explanation about the project">
+    <list default="true" id="853f2666-c962-4e27-8e3d-57868fe9a256" name="Default Changelist" comment="C3.0.1 - Modifying classifier models, adding markdown definitions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/basketball_player_recruitment-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/basketball_player_recruitment-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basketball_player_recruitment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/basketball_player_recruitment.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +36,7 @@
       <workItem from="1694960452814" duration="287000" />
       <workItem from="1695111323350" duration="376000" />
       <workItem from="1695116512135" duration="15000" />
-      <workItem from="1695575192571" duration="368000" />
+      <workItem from="1695575192571" duration="1007000" />
     </task>
     <task id="LOCAL-00001" summary="C2.0.1 - Fixing Markdown and Images">
       <created>1694960620175</created>
@@ -55,7 +52,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695111386406</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="C3.0.1 - Modifying classifier models, adding markdown definitions">
+      <created>1695575583060</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695575583060</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +79,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="C2.0.1 - Fixing Markdown and Images" />
-    <option name="LAST_COMMIT_MESSAGE" value="C2.0.1 - Fixing Markdown and Images" />
+    <MESSAGE value="C3.0.1 - Modifying classifier models, adding markdown definitions" />
+    <option name="LAST_COMMIT_MESSAGE" value="C3.0.1 - Modifying classifier models, adding markdown definitions" />
   </component>
 </project>
