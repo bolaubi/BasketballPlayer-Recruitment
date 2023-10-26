@@ -6,22 +6,13 @@
 
 Photo by [Markus Spiske](https://unsplash.com/@neonbrand) on [Unsplash](https://unsplash.com/photos/BfphcCvhl6E)
 
-## Introduction
+## Github File Descriptions
 
-The primary objective of this project is to develop a binary classification machine learning model designed to identify potential basketball players for recruitment. 
+1. __basketball_player_recruitment.ipynb__ --> notebook file containing data preprocessing, visualization, and modelling process
 
-The underlying assumptions for this project are as follows:
+2. **nba_players.csv** --> csv file for visualization and model training purposes
 
-- H0: Do not hire
-- H1: Hire
-
-In this context, it is **acceptable to have a higher number of False Negatives (accepting False H0)** than False Positives (rejecting True H0). In simpler terms, it is preferable for the model to classify more candidates as "Do not Hire" (H0) than as "Hire" (H1). This approach is chosen because **hiring underperforming individuals can lead to more substantial costs**. Therefore, in this case, a higher False Negative Rate is considered more favorable than a higher False Positive Rate. Consequently, the chosen metric for the classification process is "**Precision.**"
-
-## Some Findings
-
-![highlighted_df](pic/highlighted_df.png)
-
-The final model employed was a combination of models (green-highlighted) using a voting classifier, which performed well with only 13 misclassifications out of a total of 2229 players, all of which were classified as false negatives. As a result, the final model achieved a 0% False Positive Rate and a 14.29% False Negative Rate.
+3. **new_players.csv**  --> csv file for model testing purpose
 
 ## The Dataset Description
 
@@ -50,13 +41,22 @@ The final model employed was a combination of models (green-highlighted) using a
 21. season            : Season
 22. potential_player  : The labeled player who needs to be recruited.
 
-## Github File Descriptions
+## Introduction
 
-1. __basketball_player_recruitment.ipynb__ --> notebook file containing data preprocessing, visualization, and modelling process
+The primary objective of this project is to develop a binary classification machine learning model designed to identify potential basketball players for recruitment. 
 
-2. **nba_players.csv** --> csv file for visualization and model training purposes
+The underlying assumptions for this project are as follows:
 
-3. **new_players.csv**  --> csv file for model testing purpose
+- H0: Do not hire
+- H1: Hire
+
+In this context, it is **acceptable to have a higher number of False Negatives (accepting False H0)** than False Positives (rejecting True H0). In simpler terms, it is preferable for the model to classify more candidates as "Do not Hire" (H0) than as "Hire" (H1). This approach is chosen because **hiring underperforming individuals can lead to more substantial costs**. Therefore, in this case, a higher False Negative Rate is considered more favorable than a higher False Positive Rate. Consequently, the chosen metric for the classification process is "**Precision.**"
+
+## Some Findings
+
+![highlighted_df](pic/highlighted_df.png)
+
+The final model employed was a combination of models (green-highlighted) using a voting classifier, which performed well with only 13 misclassifications out of a total of 2229 players, all of which were classified as false negatives. As a result, the final model achieved a 0% False Positive Rate and a 14.29% False Negative Rate.
 
 ## Profile
 
