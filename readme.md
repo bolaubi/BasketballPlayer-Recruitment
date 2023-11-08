@@ -43,7 +43,7 @@ Photo by [Markus Spiske](https://unsplash.com/@neonbrand) on [Unsplash](https://
 
 ## Introduction
 
-The primary objective of this project is to develop a binary classification machine learning model designed to identify potential basketball players for recruitment. 
+The primary objective of this project is to reduce misallocated recruitment expense by creating a binary classification machine learning model that identifies potential basketball recruits.
 
 The underlying assumptions for this project are as follows:
 
